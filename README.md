@@ -18,5 +18,5 @@ Here are some of the features of the project:
 
 #### Support by STAR 
 
-## Contributor : [@Ankit Nainwal](https://github.com/nano-bot01)
+## Contributor : [@Priyanshu Mittal](https://github.com/priyanshmittal)
 <hr/>
